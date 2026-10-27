@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>عرفان میری | فوتسالیست افغانستانی</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#080b10;color:white;font-family:Tahoma,Arial,sans-serif;line-height:1.9}
+header{padding:65px 20px;text-align:center;background:linear-gradient(135deg,#101820,#075c46)}
+header h1{font-size:38px;margin:0;color:#52ffad}
+header p{font-size:18px}
+.tag{display:inline-block;background:#52ffad;color:#07120d;padding:5px 16px;border-radius:30px;font-weight:bold}
+main{max-width:850px;margin:auto;padding:25px 18px}
+.card{background:#121820;border:1px solid #26332e;border-radius:18px;padding:22px;margin:20px 0}
+h2{color:#52ffad}
+.stats{display:flex;justify-content:space-around;gap:10px;text-align:center;flex-wrap:wrap}
+.stat{padding:12px}
+.stat strong{display:block;font-size:25px;color:#52ffad}
+.button{display:inline-block;background:#52ffad;color:#07120d;text-decoration:none;padding:10px 20px;border-radius:9px;font-weight:bold;margin:5px}
+footer{text-align:center;padding:25px;color:#aab5b0}
+</style>
+</head>
+<body>
+<header>
+<span class="tag">FUTSAL • AFGHANISTAN</span>
+<h1>عرفان میری</h1>
+<p>فوتسالیست افغانستانی | جنگجو تا آخرین ثانیه</p>
+<a class="button" href="#about">داستان من</a>
+</header>
+<main>
+<section class="card" id="about">
+<h2>⚽ درباره من</h2>
+<p>من عرفان میری هستم؛ فوتسالیستی باانگیزه که برای رسیدن به رؤیاهایش تلاش می‌کند. هدفم پیشرفت، رقابت در سطح بالاتر و نمایندگی شایسته افغانستان در فوتسال است.</p>
+</section>
+<section class="card">
+<h2>🏆 مسیر فوتسالی من</h2>
+<div class="stats">
+<div class="stat"><strong>افغانستان</strong>ملیت ورزشی</div>
+<div class="stat"><strong>فوتسال</strong>رشته ورزشی</div>
+<div class="stat"><strong>ادامه می‌دهم</strong>ذهنیت من</div>
+</div>
+</section>
+<section class="card">
+<h2>💪 بازگشت از مصدومیت</h2>
+<p>مصدومیت پایان رؤیاها نیست. با صبر، تلاش و تمرین اصولی، قدم‌به‌قدم برای بازگشت قوی‌تر به زمین تلاش می‌کنم.</p>
+<p><strong>«من هنوز تموم نشدم!»</strong></p>
+</section>
+<section class="card">
+<h2>📱 شبکه اجتماعی</h2>
+<p>برای دیدن ویدئوها و لحظه‌های فوتسالی من، صفحه اینستاگرامم را دنبال کنید.</p>
+<a class="button" href="https://www.instagram.com/____e__12____/" target="_blank">اینستاگرام من</a>
+</section>
+</main>
+<footer>ساخته‌شده برای مسیر فوتسالی عرفان میری ⚽</footer>
+</body>
+</html>
